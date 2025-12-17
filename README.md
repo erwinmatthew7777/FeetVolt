@@ -1,4 +1,4 @@
-# DIY Floravolt - Fruit-Powered Guitar Pedal
+Fruit-Powered Guitar Pedal
 
 > An open-source DIY implementation of the Floravolt concept: a guitar effects pedal that uses fruit as a power source.
 
